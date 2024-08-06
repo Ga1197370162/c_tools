@@ -1,7 +1,7 @@
 #ifndef CTS_MEM_H
 #define CTS_MEM_H
 
-#include "cts_typesdef.h"
+#include "cts_types_def.h"
 
 CTS_C_BEGIN
 
